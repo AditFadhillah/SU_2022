@@ -1,0 +1,15 @@
+C:\Users\fadhi\UNI\su\øvelser\obj\Debug\net6.0\øvelser.csproj.AssemblyReference.cache
+C:\Users\fadhi\UNI\su\øvelser\obj\Debug\net6.0\øvelser.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fadhi\UNI\su\øvelser\obj\Debug\net6.0\øvelser.AssemblyInfoInputs.cache
+C:\Users\fadhi\UNI\su\øvelser\obj\Debug\net6.0\øvelser.AssemblyInfo.cs
+C:\Users\fadhi\UNI\su\øvelser\obj\Debug\net6.0\øvelser.csproj.CoreCompileInputs.cache
+C:\Users\fadhi\UNI\su\øvelser\bin\Debug\net6.0\øvelser.exe
+C:\Users\fadhi\UNI\su\øvelser\bin\Debug\net6.0\øvelser.deps.json
+C:\Users\fadhi\UNI\su\øvelser\bin\Debug\net6.0\øvelser.runtimeconfig.json
+C:\Users\fadhi\UNI\su\øvelser\bin\Debug\net6.0\øvelser.dll
+C:\Users\fadhi\UNI\su\øvelser\bin\Debug\net6.0\ref\øvelser.dll
+C:\Users\fadhi\UNI\su\øvelser\bin\Debug\net6.0\øvelser.pdb
+C:\Users\fadhi\UNI\su\øvelser\obj\Debug\net6.0\øvelser.dll
+C:\Users\fadhi\UNI\su\øvelser\obj\Debug\net6.0\ref\øvelser.dll
+C:\Users\fadhi\UNI\su\øvelser\obj\Debug\net6.0\øvelser.pdb
+C:\Users\fadhi\UNI\su\øvelser\obj\Debug\net6.0\øvelser.genruntimeconfig.cache
