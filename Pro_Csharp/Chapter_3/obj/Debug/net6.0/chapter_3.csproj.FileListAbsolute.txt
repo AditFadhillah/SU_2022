@@ -1,0 +1,15 @@
+C:\Users\fadhi\UNI\su\pro_csharp\chapter_3\bin\Debug\net6.0\chapter_3.exe
+C:\Users\fadhi\UNI\su\pro_csharp\chapter_3\bin\Debug\net6.0\chapter_3.deps.json
+C:\Users\fadhi\UNI\su\pro_csharp\chapter_3\bin\Debug\net6.0\chapter_3.runtimeconfig.json
+C:\Users\fadhi\UNI\su\pro_csharp\chapter_3\bin\Debug\net6.0\chapter_3.dll
+C:\Users\fadhi\UNI\su\pro_csharp\chapter_3\bin\Debug\net6.0\ref\chapter_3.dll
+C:\Users\fadhi\UNI\su\pro_csharp\chapter_3\bin\Debug\net6.0\chapter_3.pdb
+C:\Users\fadhi\UNI\su\pro_csharp\chapter_3\obj\Debug\net6.0\chapter_3.csproj.AssemblyReference.cache
+C:\Users\fadhi\UNI\su\pro_csharp\chapter_3\obj\Debug\net6.0\chapter_3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fadhi\UNI\su\pro_csharp\chapter_3\obj\Debug\net6.0\chapter_3.AssemblyInfoInputs.cache
+C:\Users\fadhi\UNI\su\pro_csharp\chapter_3\obj\Debug\net6.0\chapter_3.AssemblyInfo.cs
+C:\Users\fadhi\UNI\su\pro_csharp\chapter_3\obj\Debug\net6.0\chapter_3.csproj.CoreCompileInputs.cache
+C:\Users\fadhi\UNI\su\pro_csharp\chapter_3\obj\Debug\net6.0\chapter_3.dll
+C:\Users\fadhi\UNI\su\pro_csharp\chapter_3\obj\Debug\net6.0\ref\chapter_3.dll
+C:\Users\fadhi\UNI\su\pro_csharp\chapter_3\obj\Debug\net6.0\chapter_3.pdb
+C:\Users\fadhi\UNI\su\pro_csharp\chapter_3\obj\Debug\net6.0\chapter_3.genruntimeconfig.cache
